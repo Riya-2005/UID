@@ -1,0 +1,6 @@
+Python (Tkinter for GUI, Speech Recognition for VUI) / Terminal 
+python.exe -m pip install --upgrade pip
+python -m venv myenv
+pip install SpeechRecognition
+python.exe -m pip install --upgrade pip
+python.exe -c "import speech_recognition;
